@@ -3,4 +3,4 @@
  
  Clique na imagem abaixo para acessar o vídeo mostrando como eu fiz este mini projeto
 
-[![texto](https://github.com/allesantos/Mini-projetos-JS/blob/main/boletim.png)](https://www.youtube.com/watch?v=2IoN15IWvec "texto")
+[![texto](https://github.com/allesantos/Mini-projeto-JS-Horario-de-Brasilia/blob/main/data-hora.png)](https://www.youtube.com/watch?v=2IoN15IWvec "texto")
