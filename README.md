@@ -1,4 +1,4 @@
-# Mini Projeto em HTML, CSS e JavaScript - Horário de Brasília
+# Miniprojeto com HTML, CSS e JavaScript - Horário de Brasília
 
  Página simples com as linguagens HTML, CSS e JavaScript. Aqui mostra um pouco da utilização de data e hora em tempo real com JavaScript.
  
